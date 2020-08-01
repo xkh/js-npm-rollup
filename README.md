@@ -7,33 +7,29 @@
 
 English | [简体中文](./README_zh.md)
 
-# xxxx
+# tools-name
 
-> 
+>
 
 ## Install
 
 ```bash
-npm i xxxx --save
+npm i xxxx --S
 ```
 
 ## Options
 
-| param  | desc  | values          | type     | must |
-|   |  |              | number   | no   |
+| param | desc | values | type | must |
+| | | | | |
 
 ## Usage
 
 #### First
 
 ```bash
+
 ```
 
-#### Preload all resource
-
-```bash
-```
-
-=======
 # js-npm-rollup
-npm打包模版
+
+npm 打包模版
